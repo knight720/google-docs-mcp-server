@@ -1,0 +1,7 @@
+node_modules/
+dist/
+config.json
+tokens.json
+*.pem
+*.key
+.env
