@@ -1,0 +1,4 @@
+{
+  "credentialsFile": "/path/to/oauth-credentials.json",
+  "tokenFile": "/path/to/tokens.json"
+}
